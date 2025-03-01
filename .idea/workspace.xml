@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="742f2b6b-4c21-4e45-a3ab-fce8f8a3d468" name="Changes" comment="Optimised program for efficiency and cpu usage after testing feedback">
-      <change afterPath="$PROJECT_DIR$/Streamlit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="742f2b6b-4c21-4e45-a3ab-fce8f8a3d468" name="Changes" comment="Created a frontend using streamlit, streamlit run Streamlit.py [command]" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740617699729</updated>
       <workItem from="1740617702732" duration="1480000" />
-      <workItem from="1740693488317" duration="8363000" />
+      <workItem from="1740693488317" duration="8696000" />
     </task>
     <task id="LOCAL-00001" summary="Optimised program for efficiency and cpu usage after testing feedback">
       <option name="closed" value="true" />
@@ -73,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740843478431</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created a frontend using streamlit, streamlit run Streamlit.py [command]">
+      <option name="closed" value="true" />
+      <created>1740845753704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740845753704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Optimised program for efficiency and cpu usage after testing feedback" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimised program for efficiency and cpu usage after testing feedback" />
+    <MESSAGE value="Created a frontend using streamlit, streamlit run Streamlit.py [command]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a frontend using streamlit, streamlit run Streamlit.py [command]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Numble_bot$Main.coverage" NAME="Main Coverage Results" MODIFIED="1740843316361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
